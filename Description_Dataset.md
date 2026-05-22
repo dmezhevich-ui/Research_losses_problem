@@ -3,7 +3,7 @@
 ## 1. Ссылка на запрос
 Для доступа к редактору перейдите по следующей ссылке:
 
-👉 [**Открыть SQL-запрос в SQLEditor**](https://sqleditor.ostrovok.in/?executed=1&tab=results&query_id=4138297)
+👉 [**Открыть SQL-запрос в SQLEditor**](https://sqleditor.ostrovok.in/?executed=1&tab=results&query_id=4138298)
 
 ---
 
